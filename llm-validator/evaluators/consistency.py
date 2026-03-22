@@ -42,4 +42,4 @@ class ConsistencyEvaluator:
         )
 
         return {"evaluator": "consistency", "passed": passed, "reason": reason}
- if __name__ == "__main__":     
+    if __name__ == "__main__":     
